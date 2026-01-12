@@ -9,10 +9,13 @@ __**Please do not distribute or share without permission.**__
 ---
 
 ## Link to Repository
-![OOP Lab Resources Repository](./media/frame.png)
-
 ### [github.com/hamidurrk/oop-lab-resources](https://github.com/hamidurrk/oop-lab-resources)
 
+<p align="center">
+  <img src="./media/frame.png" alt="OOP Lab Resources Repository" width="450"/>
+</p>
+
+---
 
 ## Repository Structure
 
@@ -52,4 +55,4 @@ week2/
 - Read all instructions carefully before starting each lab.
 
 ## 📝 License
-This repository is for educational use only. 
+This repository is for educational use only.
